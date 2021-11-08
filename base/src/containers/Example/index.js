@@ -1,9 +1,9 @@
 import React from 'react'
 import { TouchableOpacity, SafeAreaView, Text } from 'react-native'
 
-import { styles } from './style'
+import { styles } from './Style'
 
-import useExample from './hook'
+import useExample from './Hook'
 
 function Example() {
 
